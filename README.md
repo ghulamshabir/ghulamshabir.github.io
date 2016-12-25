@@ -4,11 +4,11 @@ This my first try at github
 
 
 My Github user page is at:
-https://githum.com/ghulamshabir/
+https://github.com/ghulamshabir/
 
 My Github Pages repo can be found at:
-https://githum.com/ghulamshabir/ghulamshabir.github.io/
+https://github.com/ghulamshabir/ghulamshabir.github.io/
 
 And, soon, you can see my customized hompage at:
 
-http://ghulamshabir.github.io/
+https://ghulamshabir.github.io/
